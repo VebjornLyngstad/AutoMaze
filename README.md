@@ -1,4 +1,4 @@
-# Auto Maze GUI
+# Auto Maze
 
 ![Auto Maze Logo](/path/to/logo.png)
 
@@ -28,7 +28,6 @@ The GUI offers three main modes of operation:
 - customtkinter
 - pySerialTransfer
 - opencv-python (cv2)
-- XboxController (custom module)
 - PIL (Python Imaging Library)
 
 ## Installation
