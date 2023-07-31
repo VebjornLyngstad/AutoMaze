@@ -49,6 +49,10 @@ The GUI offers three main modes of operation:
 ## Known Issues
 
 - The AI mode is not yet implemented.
+- It won't always start a connection with the Xbox controller when going into manual control
+- When "clicking the return to menu" button in manual control, then it won't go back befor after getting an input from the Xbox controller
+- The GUI can open with wrong graphics
+- The sensor is not perfectly calibrated, this can lead to the elevator going of or not go of when it is suppose to it(happen less then 1 prosent of the time).
 
 ## Contributors
 
