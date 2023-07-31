@@ -55,6 +55,9 @@ The GUI offers three main modes of operation:
 - Vebjørn Lyngstad
 - Daniel Kokai
 - Simon Chabab
+- Emil Dien Tran
+- Lise Valvik
+- Jakob Finnvold
 
 ## License
 
