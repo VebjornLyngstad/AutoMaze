@@ -45,7 +45,7 @@ The GUI offers three main modes of operation:
 4. In "Auto" mode, the system will automatically detect a maze (if present) and display the detected maze information. Click the "Run Auto Control" button to start the autonomous maze-solving process.
 5. In "AI" mode (currently not implemented), AI algorithms will be used to optimize maze-solving strategies.
 6. The "Override" button allows manual control of actuators from the GUI, regardless of the Xbox controller's presence.
-7. The "MazeSolutions" folder is text files with solutions fore the different mazes, so the are always saved there. But if you would like to make a new solution or make other mazes, you can use the "WriteToFileWithTimestamp.py" program to make new solutions.
+7. The "MazeSolutions" folder contains text files with solutions fore the different mazes, so the are always saved there. But if you would like to make a new solution or make other mazes, you can use the "WriteToFileWithTimestamp.py" program to make new solutions.
 
 ## Known Issues
 
