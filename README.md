@@ -1,6 +1,6 @@
 # Auto Maze
 
-![Auto Maze Logo](/path/to/logo.png)
+![Auto Maze Logo]([/path/to/logo.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/National-Oilwell-Varco-Logo.svg/1920px-National-Oilwell-Varco-Logo.svg.png))
 
 ## Description
 
